@@ -14,6 +14,7 @@ course::course(){
     hours = 0.0;
 }
 
+/***This function gets the user input for the course data and inputs it into class */
 void course::input(std::istream& ins){
     if(ins == cin){
 	cout<<"Course Number: ";

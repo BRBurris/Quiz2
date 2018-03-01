@@ -21,7 +21,7 @@
 
 using namespace std;
 
-// This function displays the menu and returns the user's choice
+/// This function displays the menu and returns the user's inputted choice
 int menu();
 
 int main(){
